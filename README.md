@@ -1,4 +1,4 @@
-# Trading-Algorithms-AI-
+# Trading-Algorithms with AI
 Time Series Analysis, 
 Decision Trees and Random Forests, 
 Sentiment Analysis, 
